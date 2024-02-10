@@ -566,6 +566,14 @@ ul {
   transform: translate(-50%, -50%);
   padding: 72px 24px 24px 24px;
 }
+.modal-field {
+  margin-bottom: 16px;
+}
+
+.modal-input-wrap {
+  position: relative;
+}
+
 .modal-close {
   width: 24px;
   height: 24px;
@@ -592,12 +600,15 @@ ul {
   border-radius: 4px;
   height: 58px;
   border: 1px solid #2e2f4266;
-  margin-bottom: 16px;
 }
+
 .modal-label {
   display: block;
   margin-bottom: 8px;
   font-size: ;
 }
 .icon-close {
+  color: #4d5ae5;
+}
+.modal-icon {
 }
