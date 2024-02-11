@@ -572,11 +572,12 @@ ul {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.5; /* 150% */
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #ffffff;
     margin-bottom: 16px;
   }
+
   .form-subscribe {
     display: flex;
     gap: 24px;
@@ -593,7 +594,7 @@ ul {
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
-    line-height: 2; /* 200% */
+    line-height: 2;
     letter-spacing: 0.04em;
     padding-left: 16px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
@@ -607,7 +608,7 @@ ul {
     font-size: 12px;
     font-style: normal;
     font-weight: 400;
-    line-height: 2; /* 200% */
+    line-height: 2;
     letter-spacing: 0.04em;
     color: #ffffff;
     padding: 8px, 16px;
@@ -619,7 +620,7 @@ ul {
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
-    line-height: 1.5; /* 150% */
+    line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
     border: none;
